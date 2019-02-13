@@ -1,0 +1,1 @@
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\bin\Debug\REST-Simple-Read.debugapp

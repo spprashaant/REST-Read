@@ -1,0 +1,5 @@
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\bin\Debug\REST-Simple-Read.pdb
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\obj\Debug\REST-Simple-Read.csprojAssemblyReference.cache
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\obj\Debug\REST-Simple-Read.csproj.CoreCompileInputs.cache
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\obj\Debug\REST-Simple-Read.dll
+C:\Data\Dev\Training Material\SharePoint Training\JavaScript and SharePoint\5. Making REST Calls from JS\REST-Simple-Read\obj\Debug\REST-Simple-Read.pdb
